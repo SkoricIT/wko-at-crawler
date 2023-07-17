@@ -1,5 +1,9 @@
 # Crawl firms from WKO.at das Portal der Wirtschaftskammern
 
+## ⚠️ Disclaimer / Warning!
+This repository/project is intended for Educational Purposes ONLY.
+The project and corresponding python script should not be used for any purpose other than learning. Please do not use it for any other reason than to learn about webscrapping. Make sure you adhere to the terms and conditions of the site!
+
 This script is designed to streamline the process of extracting B2B leads from registers - specifically the Austrian Wirtschaftskammern portal. It automates the tedious task of manually sorting through over a thousand profiles to determine their relevance and to extract necessary contact information. The script outputs data such as the name, address, email, website, and business type from each profile and neatly organizes it into a structured Excel table for easy use in your marketing initiatives.
 
 ## Getting Started
